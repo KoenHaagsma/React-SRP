@@ -3,11 +3,7 @@ import { render } from 'react-dom';
 import clsx from 'clsx';
 
 function Navbar(props) {
-    const className = clsx({
-        navbar: true,
-        dark: props.theme === 'dark',
-        light: props.theme === 'light',
-    });
+    const className = clsx({ navbar: true, light: props.theme === 'light', dark: props.theme === 'dark' });
     return <h1 className={className}>Online supermarket</h1>;
 }
 
