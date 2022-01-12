@@ -3,7 +3,7 @@
 *Insert picture/gif of full project UI*
 
 ## 📂 Assignment
-*Assignment explanation*
+The full course, with as final assignment a website with Stripe that is built during the course
 
 ## 🧾 Table of contents
 -   [About the project](##About-the-project)
@@ -15,11 +15,8 @@
       * [Dev dependecies](##Dev-dependecies)
 -   [License](##License)
 
-## 📖 About the project
-*Tell where the project is about*
-
 ## 🛠 Built with
-*Where is the application made with*
+React.js
 
 ## 🧰 Packages/dependecies
 
